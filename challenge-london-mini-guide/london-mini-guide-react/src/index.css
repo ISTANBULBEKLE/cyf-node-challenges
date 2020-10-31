@@ -26,17 +26,20 @@ code {
     monospace;
 }
 
+
 .header{
     background-color: #E4F6D2;
     margin: auto;
     width: auto;
     height: auto;
     font-family: 'Poiret One', cursive;
+    padding-bottom:40px;
 }
 .menu-wrapper{
   display:flex;
   flex-direction: row;
   background-color: #E4F6D2;
+  padding-left:75px;
 }
 
 .buttons-wrapper{
@@ -44,6 +47,5 @@ code {
   flex-direction:row;
   justify-content:space-around;
   background-color: #E4F6D2;
-  align-items: center;
-  padding-top:10px;
+  padding-top:40px;
 }
